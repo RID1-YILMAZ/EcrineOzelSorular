@@ -1,2 +1,1 @@
-# Gay misin?
-Gaylik testi!
+# Çok önemli soru!
